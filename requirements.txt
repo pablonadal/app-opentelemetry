@@ -1,0 +1,9 @@
+flask
+flask-marshmallow
+marshmallow
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-requests
+azure-monitor-opentelemetry-exporter
+python-dotenv
